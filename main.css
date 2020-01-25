@@ -2,6 +2,13 @@
     background-color: #0ff900!important;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 
 body {
     	background: linear-gradient(red, blue, red, blue, red, blue);
